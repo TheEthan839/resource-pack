@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_tall_flower_top",
+  "textures": {
+    "texture": "minecraft:block/rose_bush_top"
+  }
+}

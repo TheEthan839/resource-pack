@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_foliage_notint",
+  "textures": {
+    "texture": "minecraft:block/azure_bluet",
+    "texture1": "minecraft:block/azure_bluet"
+  }
+}

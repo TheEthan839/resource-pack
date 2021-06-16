@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wheat",
+  "textures": {
+    "texture": "minecraft:block/wheat_stage6",
+	"texture1": "minecraft:block/wheat_stage6"
+  }
+}

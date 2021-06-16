@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_foliage",
+  "textures": {
+    "texture": "minecraft:block/sweet_berry_bush_stage0"
+  }
+}

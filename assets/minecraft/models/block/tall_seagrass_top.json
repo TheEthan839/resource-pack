@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_foliage_notint2",
+  "textures": {
+    "texture": "minecraft:block/tall_seagrass_top"
+  }
+}

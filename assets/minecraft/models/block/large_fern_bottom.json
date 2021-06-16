@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_foliage",
+  "textures": {
+    "texture": "minecraft:block/large_fern_bottom",
+	"texture1": "minecraft:block/large_fern_bottom"
+  }
+}

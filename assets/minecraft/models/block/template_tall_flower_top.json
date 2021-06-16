@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cross",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#texture"
+	},
+	"elements": [
+		{
+			"from": [0.8, 7.55, 15.75],
+			"to": [15.2, 15.55, 15.75],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [0.8, 7.8, 0.2],
+			"to": [15.2, 15.8, 0.2],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [15.75, 7.8, 0.8],
+			"to": [15.75, 15.8, 15.2],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "z", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 8], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [0.2, 7.8, 0.8],
+			"to": [0.2, 15.8, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 8], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [2, 3]
+		},
+		{
+			"name": "tinted_cross",
+			"origin": [8, 8, 8],
+			"children": [4, 5]
+		}
+	]
+}

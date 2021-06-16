@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flower_pot_foliage",
+  "textures": {
+    "plant": "minecraft:block/azure_bluet",
+	"base": "minecraft:block/dirt"
+  }
+}

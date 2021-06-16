@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_flower2",
+  "textures": {
+    "texture": "minecraft:block/lily_of_the_valley"
+  }
+}

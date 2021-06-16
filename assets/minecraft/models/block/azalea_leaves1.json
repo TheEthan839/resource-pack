@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/leaves_notint1",
+    "textures": {
+		"all": "minecraft:block/azalea_leaves"
+    }
+}

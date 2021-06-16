@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_foliage_notint3",
+  "textures": {
+    "texture": "minecraft:block/nether_sprouts",
+	"texture1": "minecraft:block/nether_sprouts"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_foliage_notint",
+  "textures": {
+    "texture": "minecraft:block/rose_bush_bottom",
+	"texture1": "minecraft:block/rose_bush_bottom"
+  }
+}

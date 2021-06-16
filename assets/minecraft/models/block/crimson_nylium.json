@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_lower_grass",
+  "textures": {
+    "side": "minecraft:block/crimson_nylium_side",
+	"top": "minecraft:block/crimson_nylium",
+	"bottom": "minecraft:block/netherrack"
+  }
+}

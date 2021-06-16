@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_tinted_bush",
+  "textures": {
+    "texture": "minecraft:block/sweet_berry_bush_stage3",
+	"texture1": "minecraft:block/sweet_berry_bush_stage1"
+  }
+}

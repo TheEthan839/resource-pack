@@ -1,7 +1,6 @@
 {
-  "parent": "block/template_foliage_notint",
+  "parent": "minecraft:block/cross",
   "textures": {
-    "texture": "minecraft:block/lilac_bottom",
-	"texture1": "minecraft:block/lilac_bottom"
+    "cross": "minecraft:block/lilac_bottom"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "block/template_tall_flower_top",
+  "parent": "minecraft:block/cross",
   "textures": {
-    "texture": "minecraft:block/rose_bush_top"
+    "cross": "minecraft:block/rose_bush_top"
   }
 }

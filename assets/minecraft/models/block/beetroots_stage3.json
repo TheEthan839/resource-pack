@@ -1,7 +1,6 @@
 {
-  "parent": "minecraft:block/template_crop",
+  "parent": "minecraft:block/crop",
   "textures": {
-    "texture": "minecraft:block/beetroots_stage3",
-	"texture1": "minecraft:block/beetroots_stage3"
+    "crop": "minecraft:block/beetroots_stage3"
   }
 }

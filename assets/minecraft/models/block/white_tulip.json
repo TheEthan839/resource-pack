@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/template_flower1",
-	"textures": {
-		"texture": "minecraft:block/white_tulip"
-	}
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecraft:block/white_tulip"
+  }
 }

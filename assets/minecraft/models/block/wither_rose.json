@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/template_flower1",
-	"textures": {
-		"texture": "minecraft:block/wither_rose"
-	}
-}

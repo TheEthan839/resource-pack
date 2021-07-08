@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/flower_pot_tinted_foliage",
-  "textures": {
-    "plant": "minecraft:block/fern",
-	"base": "minecraft:block/dirt"
-  }
-}

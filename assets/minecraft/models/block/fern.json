@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_foliage",
-  "textures": {
-    "texture": "minecraft:block/fern"
-  }
-}

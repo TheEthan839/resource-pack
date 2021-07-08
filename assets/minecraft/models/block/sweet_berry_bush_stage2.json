@@ -1,7 +1,6 @@
 {
-  "parent": "minecraft:block/template_tinted_bush",
+  "parent": "minecraft:block/cross",
   "textures": {
-    "texture": "minecraft:block/sweet_berry_bush_stage2",
-	"texture1": "minecraft:block/sweet_berry_bush_stage1"
+    "cross": "minecraft:block/sweet_berry_bush_stage2"
   }
 }

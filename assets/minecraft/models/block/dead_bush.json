@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_foliage_notint",
+  "textures": {
+    "texture": "minecraft:block/dead_bush"
+  }
+}
